@@ -5,6 +5,7 @@
   "author": "terrierscript",
   "license": "MIT",
   "dependencies": {
+    "@prisma/client": "4.0.0",
     "prisma": "^4.0.0"
   }
 }
