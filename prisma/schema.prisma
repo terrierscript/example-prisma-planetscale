@@ -16,6 +16,6 @@ model Post {
   id       Int     @id @default(autoincrement())
   title    String
   name     String
-  tenantId String
+  tenantId String?
   foo      Boolean
 }
